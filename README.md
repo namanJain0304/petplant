@@ -1,7 +1,7 @@
 
 <body>
 
-<h1>PetPlant Website</h1>
+<h1><a href="https://petplant.vercel.app/" target="_blank">PetPlant Website</a></h1>
 
 <p>This repository contains the code for the PetPlant website, built using HTML, CSS, JavaScript, and Bootstrap. The website was developed as a project for the Terra Hacks hackathon.</p>
 
